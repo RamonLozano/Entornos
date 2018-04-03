@@ -11,6 +11,8 @@ public class Main {
 		Personaje Damage = new Personaje(750, 150, 50, 75, 25, 35);
 
 		Personaje Destreza = new Personaje(500, 100, 50, 100, 50, 50);
+		
+		Personaje troll = new Personaje(1, 2000, 0, 100, 25, 100);
 
 		do {
 
