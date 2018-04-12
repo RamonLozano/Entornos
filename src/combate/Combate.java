@@ -27,6 +27,8 @@ public class Combate {
 		return golpe;
 
 	}
+	
+// Codigo modificado o añadido	
 
 	public static double calcularDamage(Personaje p1, Personaje p2) {
 
