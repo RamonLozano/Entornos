@@ -8,7 +8,7 @@ public class Main {
 
 		Personaje Equilibrado = new Personaje(1000, 100, 50, 75, 25, 25);
 		Personaje damage = new Personaje(750, 150, 50, 75, 25, 35);
-		Personaje Destreza = new Personaje(500, 100, 50, 100, 50, 50);
+		Personaje Destreza = new Personaje(1000, 25, 14, 22, 23, 88);
 
 		do {
 
